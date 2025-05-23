@@ -1,5 +1,5 @@
 # Customer Segmentation Wine Dataset
-Customer segmentation based on wine attributes dataset
+Customer segmentation based on wine attributes dataset found here: https://www.kaggle.com/datasets/sadeghjalalian/wine-customer-segmentation/data
 
 ### 🍷 Wine Customer Segmentation
 This project focuses on clustering and segmenting wine customers based on their behavioral attributes. By leveraging unsupervised machine learning techniques, the goal is to discover hidden customer segments that can inform personalized marketing strategies and product offerings.
